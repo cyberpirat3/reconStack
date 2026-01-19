@@ -1,0 +1,7 @@
+# Core Dependencies
+requests==2.31.0
+beautifulsoup4==4.12.2
+colorama==0.4.6
+altdns==1.0.2
+httpx==0.23.0
+dnsx==1.1.0
